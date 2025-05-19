@@ -1,0 +1,22 @@
+num = int(input("digite um numero"))
+
+multiplicaçao = num * 1
+print(str(num) + " x 1 = " + str(multiplicaçao))
+multiplicaçao = num * 2
+print(str(num) + " x 2 = " + str(multiplicaçao))
+multiplicaçao = num * 3
+print(str(num) + " x 3 = " + str(multiplicaçao))
+multiplicaçao = num * 4
+print(str(num) + " x 4 = " + str(multiplicaçao))
+multiplicaçao = num * 5
+print(str(num) + " x 5 = " + str(multiplicaçao))
+multiplicaçao = num * 6
+print(str(num) + " x 6 = " + str(multiplicaçao))
+multiplicaçao = num * 7
+print(str(num) + " x 7 = " + str(multiplicaçao))
+multiplicaçao = num * 8
+print(str(num) + " x 8 = " + str(multiplicaçao))
+multiplicaçao = num * 9
+print(str(num) + " x 9 = " + str(multiplicaçao))
+multiplicaçao = num * 10
+print(str(num) + " x 10 = " + str(multiplicaçao))
